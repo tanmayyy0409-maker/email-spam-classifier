@@ -43,6 +43,4 @@ You won a free iPhone
 Output:
 spam
 
-## GitHub Repository
 
-https://github.com/tanmayyy0409-maker/email-spam-classifier
